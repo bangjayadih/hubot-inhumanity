@@ -17,9 +17,9 @@ I prefer js to coffee so I converted it to js, massively increased the db, added
 
 ## Usage
 
-`hubot cah q card`, to load a question (black) card
-`hubot cah draw` to draw asnwer (white) cards and fill in the blanks.
-`hubot cah sets` will list the available packs. defaulting to use them all
+`hubot cah q`, to load a question (black) card  
+`hubot cah draw` to draw asnwer (white) cards and fill in the blanks.  
+`hubot cah sets` will list the available packs. defaulting to use them all  
 `hubot cah use <setindex>` will specify use of a single CAH pack. No support for multiple yet.
 
 
