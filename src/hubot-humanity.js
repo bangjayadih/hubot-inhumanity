@@ -104,7 +104,7 @@ module.exports = function (robot) {
     msg.send(escapeText(qCard.text));
   });
 
-  robot.respond(/cah d(?:raw)/i, function (msg) {
+  robot.respond(/cah d(?:raw)?/i, function (msg) {
     var lastCard = get('lastCard');
     var cards = getCardsBySelectedSets(get('currentSet'));
     var answerCards = [];

@@ -1,7 +1,7 @@
 {
   "name": "hubot-inhumanity",
   "description": "A oneshot style Cards Against Humanity game for hubot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Danny Shaw <github@dannyshaw.io>",
   "license": "MIT",
   "keywords": [
