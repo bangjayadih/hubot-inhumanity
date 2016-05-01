@@ -1,0 +1,32 @@
+{
+  "name": "hubot-inhumanity",
+  "description": "A oneshot style Cards Against Humanity game for hubot",
+  "version": "1.0.0",
+  "author": "Danny Shaw <github@dannyshaw.io>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dannyshaw/hubot-inhumanity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dannyshaw/hubot-inhumanity/issues"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "script/test"
+  },
+  "dependencies": {
+    "slackify-html": "^1.0.1",
+    "underscore": "^1.8.3"
+  }
+}
