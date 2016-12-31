@@ -19,7 +19,7 @@
     "mocha": "*",
     "chai": "*",
     "sinon-chai": "*",
-    "sinon": "*"
+    "sinon": ">=1.17.7"
   },
   "main": "index.js",
   "scripts": {
